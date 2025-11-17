@@ -10,15 +10,14 @@
 
 ## Key Findings
 
-The exploratory analysis demonstrates key patterns found in speeches of similar nature, as expressions and words from the lexical field of democracy and derivated terms.
-The implementation of the machine learning model proved a positive classification effort, achieving maximum accuracy of 88% when classifying said countries according to their speeches.
+The exploratory analysis demonstrates key patterns found in speeches of similar nature, as expressions and words from the lexical field of democracy and derivated terms. The implementation of the machine learning model proved a positive classification effort, achieving maximum accuracy of 88% when classifying said countries according to their speeches.
 
 ## Contents
 
--DemocracyPrediction_NB.ipynb - The notebook containing the implemented methodologies for both anbalysis and prediction
--DemocracyPrediction.pdf - The report containing the description of methodologies and findings
--requirements.txt - A txt file with the libraries required to run the notebook
--DATA - A folder with the necessary data files in csv format
+1. DemocracyPrediction_NB.ipynb - The notebook containing the implemented methodologies for both anbalysis and prediction
+2. DemocracyPrediction.pdf - The report containing the description of methodologies and findings
+3. requirements.txt - A txt file with the libraries required to run the notebook
+4. DATA - A folder with the necessary data files in csv format
 
 ## How to Run the Project
 
