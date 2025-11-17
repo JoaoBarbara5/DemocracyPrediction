@@ -25,3 +25,7 @@ The exploratory analysis demonstrates key patterns found in speeches of similar 
 2. Create a virtual environment (e.g., python -m venv .venv).
 3. Install the required packages: pip install -r requirements.txt.
 4. Launch Jupyter Lab/Notebook and open DemocracyPrediction_NB.ipynb.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE] file for details.
