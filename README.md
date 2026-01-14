@@ -1,5 +1,8 @@
 # Democracy Classification: Analysis and Prediction from the United Nations General Debate Corpus 1946- 2024
 
+## Authors
+João Bárbara, Ron Lakeman, Marco Maier, Chang Zhou
+
 ## Description
 
  This study examines UN General Debate speeches from 1946 to 2024 using Natural Language Processing (NLP) methods to investigate their connection to democratic values, including government accountability as measured by the Worldwide Governance Indicators. It employs NLP to identify patterns that classify countries as democratic, autocratic, or transitional. The methodology involves text preprocessing, exploratory analysis to find mentions related to democracy, and SVM, SGD, Logistic Regression, and KNN machine learning models to assess predictability. The questions of how different types of government are mentioned in UN speeches over this period and, if and how it might be possible to predict a country’s democracy class from the speeches held at the yearly UN General Debate.
